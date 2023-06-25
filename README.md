@@ -1,0 +1,2 @@
+# B1_L58_JS_FatArrow_Function
+B1_L58_JS_FatArrow_Function
